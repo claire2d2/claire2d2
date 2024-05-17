@@ -1,6 +1,21 @@
 # Claire Song
 Always willing to learn new things, passionnate (in no particular order) about coding, noodles, aerial arts, Lord of the Rings and potatoes.
 
+## Projects 
+### 🚀[Air2D2](https://air2d2.netlify.app)
+A full stack React application where one can track their progress in aerial arts (pole dance, aerial hoop). 
+- [Front end code](https://github.com/claire2d2/aerial-front)
+- [Back end code](https://github.com/claire2d2/aerial-backend)
+
+### 🚀[Gotta Cache Them All](https://cache-them-all.netlify.app/)
+A nostalgic SPA developed using React in a team of three, where you can view data on the first three generations of pokemon, and create customized teams.
+- [Front end code](https://github.com/claire2d2/poke-project)
+
+### 🚀[Bool you can eat hotpot](https://claire2d2.github.io/game-project/)
+A javascript snake-like game where your ultimate goal is to eat and avoid coriander.
+- [Front end code](https://github.com/claire2d2/game-project)
+
+
 ## Tech Stack
 
 Languages: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
