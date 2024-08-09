@@ -1,5 +1,6 @@
 # Claire Song
 Always willing to learn new things, passionnate (in no particular order) about coding, noodles, aerial arts, Lord of the Rings and potatoes.
+
 Check out my website : https://claire2d2.com
 
 ## Projects 
